@@ -1,1 +1,4 @@
-# data-analysis
+prespictive analysis
+predective analysis
+diagonestics
+descriptive
